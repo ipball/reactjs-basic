@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 // ({contacts}) intanst for props
 const ContactComponent = props => (
